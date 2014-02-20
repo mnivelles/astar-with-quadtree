@@ -17,3 +17,6 @@ Note : the heuristic was customised to favor long straights.
 
 ##Exemple/Example
 ![image](image/exemple_resolu.png "Exemple/Example")
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/mnivelles/astar-with-quadtree/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
